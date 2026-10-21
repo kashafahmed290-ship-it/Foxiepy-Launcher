@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🟩 Cubiq Launcher
+# 🟩 Foxiepy Launcher
 ### The Premier Minecraft: Java Edition Launcher for Android
 
 [![GitHub Release](https://img.shields.io/github/v/release/VivxKumar07/Cubiq-Launcher?style=for-the-badge&color=55FF55&logo=github)](https://github.com/VivxKumar07/Cubiq-Launcher/releases/latest)
